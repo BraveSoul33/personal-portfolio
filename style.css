@@ -1,0 +1,126 @@
+h1.me {
+  color: darkslateblue;
+  background-color: gainsboro;
+  margin-left: 320px;
+  margin-right: 320px;
+  border-radius: 10px;
+}
+
+h1.edu {
+  color: darkslateblue;
+  background-color: gainsboro;
+  margin-left: 370px;
+  margin-right: 370px;
+  border-radius: 10px;
+}
+
+h1.hobbies {
+  color: darkslateblue;
+  background-color: gainsboro;
+  margin-left: 400px;
+  margin-right: 375px;
+  border-radius: 10px;
+}
+
+h1.contact {
+  color: darkslateblue;
+  background-color: gainsboro;
+  margin-left: 300px;
+  margin-right: 300px;
+  border-radius: 10px;
+}
+
+h3 {
+  color: darkred;
+}
+
+img.me {
+  width: 200px;
+  height: auto;
+  margin-top: 20px;
+  margin-bottom: -8px;
+  border-radius: 50px;
+}
+
+img.study {
+  height: 350px;
+  width: auto;
+  border-radius: 20px;
+  margin-left: 20px;
+}
+
+img.basket {
+  width: 500px;
+  height: auto;
+  border-radius: 20px;
+}
+
+img.tree {
+  width: auto;
+  height: 350px;
+  border-radius: 20px;
+}
+
+div.links {
+  margin-top: 5px;
+  margin-left: 365px;
+  margin-right: 360px;
+  padding: .5px;
+  border-radius: 10px;
+  background-color: gainsboro;
+}
+
+div.education {
+  margin-left: 170px;
+  margin-right: 150px;
+  padding: 10px;
+  border-radius: 10px;
+  color: darkslateblue;
+  background-color: gainsboro;
+}
+
+div.hobbies {
+  font-size: larger;
+  margin-left: 350px;
+  margin-right: 340px;
+  border-radius: 10px;
+  color: darkslateblue;
+  background-color: gainsboro;
+}
+
+div.contact {
+  margin-left: 275px;
+  margin-right: 300px;
+  font-size: larger;
+  border-radius: 10px;
+  color: darkslateblue;
+  background-color: gainsboro;
+}
+
+p {
+  color: darkslateblue;
+  background-color: gainsboro;
+  font-size: larger;
+  margin-left: 375px;
+  margin-right: 375px;
+  border-radius: 8px;
+}
+
+a.index {
+  font-size: x-large;
+}
+
+hr {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+hr.edu {
+  margin-right: 150px;
+  margin-left: 168px;
+}
+
+* {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
